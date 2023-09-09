@@ -1,1 +1,1 @@
-# NotepadUsingPython
+# PythonSmallProject
